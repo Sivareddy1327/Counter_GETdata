@@ -1,0 +1,8 @@
+.text{
+    padding: 20px;
+    text-decoration: none;
+}
+.text:hover{
+    background-color: blueviolet;
+    color: white;
+}
